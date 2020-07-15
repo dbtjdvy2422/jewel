@@ -394,9 +394,9 @@
 		SELECT COUNT(*) FROM JJIM WHERE ITEM_NUM=#{ITEM_NUM} AND MEM_NUM=#{MEM_NUM}
 	</select>
 	<!-- 포인트 목록  -->
-	<select id="selectPoint" parameterType="hashmap" resultType="hashmap">
+	<select id="selectMyPointList" parameterType="hashmap" resultType="hashmap">
 	<![CDATA[
-	SELECT
+		SELECT
 				 *
 				FROM
 					(SELECT 

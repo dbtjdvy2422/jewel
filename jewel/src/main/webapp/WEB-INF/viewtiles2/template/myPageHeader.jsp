@@ -108,7 +108,7 @@ $(document).ready(function() {
 			<span>
 				<img src="<c:url value="/images/myPage/points.png"/>" style="width:60px">
 			</span>
-			<span><a href="<c:url value='/myPage/myCart'/>">포인트조회</a></span>
+			<span><a href="<c:url value='/myPage/myPointList'/>">포인트조회</a></span>
 		</div>
 		<br>
 		<!-- 목록박스 -->
