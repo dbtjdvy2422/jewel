@@ -13,7 +13,7 @@
      - I'mport API used for payment integration       
      - Summernote(Wysiwyg HTML editor) used for product review      
      - Daum Postcode API used for searching user's address      
-## Primary Functions   
+## 주요기능  
 회원가입    
 회원탈퇴     
 상품구매/반품    
@@ -21,6 +21,7 @@
 사용자 (나의 주문내역, 배송상태 확인, 포인트 적립 내역, 리뷰 작성)     
 관리자 (객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)   
 
+## 웹 이미지
 
 ლ( ╹ ◡ ╹ ლ) 
 프로젝트 진행상황표 : https://docs.google.com/spreadsheets/d/1V8Oi52A1czb2-STzYLy6z15dVXSlf0iCkx4Sjbw6xck/edit?usp=sharing
