@@ -1,19 +1,24 @@
-# jewelry
-3팀 주얼리 프로젝트
+쥬얼리 웹 쇼핑몰 프로젝트
 
-프로젝트쥬얼리사이트를 벤치마킹 결제,장바구니,마이페이지,리뷰 관리자페이지 기능구현
-
-사용 언어&TOOL
-
-JAVA,JSP,AJAX,CSS,JQUERY,JAVASCRIPT,HTML,JSTL
-ORACLE DATABASE
-SPRING FRAMEWORK
-SQLDEVELOPER
-API
-
-IMPORT API(결제시스템)
-다음주소 API
-SUMMERNOTE API
+Duration: 2020.06 ~ 2020.07
+Environment
+Programming Language: Java, JSP, HTML, CSS, JavaScript
+Framework: Spring Framework 4.0, MyBatis
+DataBase: Oracle 11g
+Server: Tomcat 9.0
+IDE & Tool: Eclipse STS, SQLDeveloper, Maven
+API:
+I'mport API used for payment integration
+Summernote(Wysiwyg HTML editor) used for product review
+Daum Postcode API used for searching user's address
+Primary Functions
+Sign Up
+Sign In
+Product Purchase/Payment
+Cart
+Announcement, Promotion
+User Dashboard (나의 주문내역, 배송상태 확인, 포인트 적립 내역, 리뷰 작성)
+Admin Dashboard (객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)
 
 
 ლ( ╹ ◡ ╹ ლ) 
