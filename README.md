@@ -9,11 +9,11 @@
    - DataBase: Oracle 11g    
    - Server: Tomcat 9.0       
    - IDE & Tool: Eclipse STS, SQLDeveloper, Maven   
-- ### API:        
+   - API:        
      - I'mport API used for payment integration       
      - Summernote(Wysiwyg HTML editor) used for product review      
      - Daum Postcode API used for searching user's address      
-Primary Functions
+## Primary Functions   
 Sign Up
 Sign In
 Product Purchase/Payment
