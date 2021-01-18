@@ -1,7 +1,7 @@
 # jewelry
 3팀 주얼리 프로젝트
 
-###정말 성표는 전설이다
+
 
 ლ( ╹ ◡ ╹ ლ) 
 프로젝트 진행상황표 : https://docs.google.com/spreadsheets/d/1V8Oi52A1czb2-STzYLy6z15dVXSlf0iCkx4Sjbw6xck/edit?usp=sharing
