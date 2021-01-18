@@ -34,7 +34,7 @@
 ![매출현황](https://user-images.githubusercontent.com/62457271/104874614-ac8fbe00-5996-11eb-8b8f-d79eeba09263.png)   
 
 
-<img src="https://user-images.githubusercontent.com/62457271/104874499-705c5d80-5996-11eb-89cc-5d6e788a4a07.png"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/62457271/104874499-705c5d80-5996-11eb-89cc-5d6e788a4a07.png"  width="300" height="400">
 ლ( ╹ ◡ ╹ ლ) 
 프로젝트 진행상황표 : https://docs.google.com/spreadsheets/d/1V8Oi52A1czb2-STzYLy6z15dVXSlf0iCkx4Sjbw6xck/edit?usp=sharing
 -----------------------------------------
