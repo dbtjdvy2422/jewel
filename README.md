@@ -1,6 +1,6 @@
 # **[Project] Jewelry Store Website**
 ***
-## 프로젝트 개요
+## 프로젝트 개요 
 
 * Duration: 2020.06 ~ 2020.07   
 * Environment   
@@ -13,21 +13,24 @@
      - I'mport API used for payment integration       
      - Summernote(Wysiwyg HTML editor) used for product review      
      - Daum Postcode API used for searching user's address      
+     
+     
+     
 ## 주요기능  
 회원가입    
 회원탈퇴     
 상품구매/반품    
 장바구니     
 사용자 (나의 주문내역, 배송상태 확인, 포인트 적립 내역, 리뷰 작성)     
-관리자 (객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)   
+관리자 (객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)        
 
 
 ## ERD  테이블
-<img src="https://user-images.githubusercontent.com/62457271/104877297-e5cb2c80-599c-11eb-83df-92e264fb9b6a.png"  width="500" height="300"><img src="https://user-images.githubusercontent.com/62457271/104877300-e6fc5980-599c-11eb-963f-e9ab6914c939.png"  width="500" height="300">
+<img src="https://user-images.githubusercontent.com/62457271/104877297-e5cb2c80-599c-11eb-83df-92e264fb9b6a.png"  width="500" height="300"><img src="https://user-images.githubusercontent.com/62457271/104877300-e6fc5980-599c-11eb-963f-e9ab6914c939.png"  width="500" height="300">      
+
+
 
 ## 웹 이미지   
-
-
 <img src="https://user-images.githubusercontent.com/62457271/104874499-705c5d80-5996-11eb-89cc-5d6e788a4a07.png"  width="300" height="500"><img src="https://user-images.githubusercontent.com/62457271/104874515-781c0200-5996-11eb-88ae-de760395b33d.png"  width="300" height="500">
 ***
 <img src="https://user-images.githubusercontent.com/62457271/104874531-8407c400-5996-11eb-8cc7-cc74c7db95cd.png"  width="300" height="300" ><img src="https://user-images.githubusercontent.com/62457271/104874543-89fda500-5996-11eb-923c-35ae534ca777.png"  width="300" height="300" ><img src="https://user-images.githubusercontent.com/62457271/104874562-91bd4980-5996-11eb-8972-c10a8e8fb81f.png"  width="300" height="300" >
