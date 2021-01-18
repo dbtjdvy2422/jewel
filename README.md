@@ -23,7 +23,7 @@
 
 
 ## ERD  테이블
-<img src="https://user-images.githubusercontent.com/62457271/104877297-e5cb2c80-599c-11eb-83df-92e264fb9b6a.png"  width="300" height="500"><img src="https://user-images.githubusercontent.com/62457271/104877300-e6fc5980-599c-11eb-963f-e9ab6914c939.png"  width="300" height="500">
+<img src="https://user-images.githubusercontent.com/62457271/104877297-e5cb2c80-599c-11eb-83df-92e264fb9b6a.png"  width="500" height="300"><img src="https://user-images.githubusercontent.com/62457271/104877300-e6fc5980-599c-11eb-963f-e9ab6914c939.png"  width="500" height="300">
 
 ## 웹 이미지   
 
