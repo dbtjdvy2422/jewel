@@ -23,7 +23,8 @@
 
 
 ## ERD  테이블
-
+![erd](https://user-images.githubusercontent.com/62457271/104877297-e5cb2c80-599c-11eb-83df-92e264fb9b6a.png)
+![내용](https://user-images.githubusercontent.com/62457271/104877300-e6fc5980-599c-11eb-963f-e9ab6914c939.png)
 
 ## 웹 이미지   
 
