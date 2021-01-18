@@ -30,8 +30,7 @@
 ***
 <img src="https://user-images.githubusercontent.com/62457271/104874576-9681fd80-5996-11eb-8f5e-95858e9bcb62.png"  width="350" height="300"><img src="https://user-images.githubusercontent.com/62457271/104874609-aac5fa80-5996-11eb-8233-6c83196f7252.png"  width="350" height="300" ><img src="https://user-images.githubusercontent.com/62457271/104874612-abf72780-5996-11eb-9256-e2ce1e1a2d14.png"  width="350" height="300" >
 ***
-<img src="https://user-images.githubusercontent.com/62457271/104874613-ac8fbe00-5996-11eb-86ec-c0419c092705.png"  width="350" height="300" >
-<img src="https://user-images.githubusercontent.com/62457271/104874614-ac8fbe00-5996-11eb-8b8f-d79eeba09263.png"  width="350" height="300" >
+<img src="https://user-images.githubusercontent.com/62457271/104874613-ac8fbe00-5996-11eb-86ec-c0419c092705.png"  width="350" height="300" ><img src="https://user-images.githubusercontent.com/62457271/104874614-ac8fbe00-5996-11eb-8b8f-d79eeba09263.png"  width="350" height="300" >
 
 ლ( ╹ ◡ ╹ ლ) 
 프로젝트 진행상황표 : https://docs.google.com/spreadsheets/d/1V8Oi52A1czb2-STzYLy6z15dVXSlf0iCkx4Sjbw6xck/edit?usp=sharing
