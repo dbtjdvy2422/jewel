@@ -24,8 +24,7 @@
 ## 웹 이미지   
 
 
-<img src="https://user-images.githubusercontent.com/62457271/104874499-705c5d80-5996-11eb-89cc-5d6e788a4a07.png"  width="50" height="50" >
-<img src="https://user-images.githubusercontent.com/62457271/104874515-781c0200-5996-11eb-88ae-de760395b33d.png"  width="50" height="50" >
+<img src="https://user-images.githubusercontent.com/62457271/104874499-705c5d80-5996-11eb-89cc-5d6e788a4a07.png"  width="300" height="500" ><img src="https://user-images.githubusercontent.com/62457271/104874515-781c0200-5996-11eb-88ae-de760395b33d.png"  width="300" height="500" >
 <img src="https://user-images.githubusercontent.com/62457271/104874531-8407c400-5996-11eb-8cc7-cc74c7db95cd.png"  width="300" height="300" >
 <img src="https://user-images.githubusercontent.com/62457271/104874543-89fda500-5996-11eb-923c-35ae534ca777.png"  width="350" height="300" >
 <img src="https://user-images.githubusercontent.com/62457271/104874562-91bd4980-5996-11eb-8972-c10a8e8fb81f.png"  width="350" height="300" >
