@@ -14,13 +14,12 @@
      - Summernote(Wysiwyg HTML editor) used for product review      
      - Daum Postcode API used for searching user's address      
 ## Primary Functions   
-Sign Up
-Sign In
-Product Purchase/Payment
-Cart
-Announcement, Promotion
-User Dashboard (나의 주문내역, 배송상태 확인, 포인트 적립 내역, 리뷰 작성)
-Admin Dashboard (객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)
+회원가입    
+회원탈퇴     
+상품구매/반품    
+장바구니     
+사용자 (나의 주문내역, 배송상태 확인, 포인트 적립 내역, 리뷰 작성)     
+관리자 (객실, 부대시설, 프로모션, 리뷰 관리, 일별/월별 매출 현황)   
 
 
 ლ( ╹ ◡ ╹ ლ) 
