@@ -1,4 +1,4 @@
-**[Project] Jewelry Store Website**
+# **[Project] Jewelry Store Website**
 ***
 * Duration: 2020.06 ~ 2020.07 Environment   
 * Programming Language: Java, JSP, HTML, CSS, JavaScript   
