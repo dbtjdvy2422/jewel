@@ -1,4 +1,4 @@
-쥬얼리 웹 쇼핑몰 프로젝트
+# H1,**[Project] Jewelry Store Website**
 ***
 Duration: 2020.06 ~ 2020.07
 Environment
