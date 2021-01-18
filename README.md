@@ -1,5 +1,7 @@
 # **[Project] Jewelry Store Website**
 ***
+## 프로젝트 개요
+___
 * Duration: 2020.06 ~ 2020.07 Environment   
 * Programming Language: Java, JSP, HTML, CSS, JavaScript   
 * Framework: Spring Framework 4.0, MyBatis   
