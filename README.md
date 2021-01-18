@@ -1,8 +1,6 @@
 #**[Project] Jewelry Store Website**
 ***
-Duration: 2020.06 ~ 2020.07   Environment
-Programming Language: Java, JSP, HTML, CSS, JavaScript
-Framework: Spring Framework 4.0, MyBatis
+Duration: 2020.06 ~ 2020.07 Environment   Programming Language: Java, JSP, HTML, CSS, JavaScript   Framework: Spring Framework 4.0, MyBatis
 DataBase: Oracle 11g
 Server: Tomcat 9.0
 IDE & Tool: Eclipse STS, SQLDeveloper, Maven
