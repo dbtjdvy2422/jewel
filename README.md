@@ -1,5 +1,5 @@
 쥬얼리 웹 쇼핑몰 프로젝트
-
+***
 Duration: 2020.06 ~ 2020.07
 Environment
 Programming Language: Java, JSP, HTML, CSS, JavaScript
